@@ -21,6 +21,7 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="class cheburator vostal.py" />
     <Compile Include="class2.py" />
     <Compile Include="class3.py" />
     <Compile Include="Git_test1.py" />
